@@ -12,6 +12,7 @@
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/git_48.svg" alt="Git" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/nodejs_48.svg" alt="Nodejs" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/photoshop_48.svg" alt="Photoshop" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/flask_48.svg" alt="Flask" width="48" height="48"/>
 
 <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="reactjs" width="48" height="48" style="max-width:100%;">
 
