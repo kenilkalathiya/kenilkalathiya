@@ -47,9 +47,6 @@ I like to
 ![Let's Encrypt](https://img.shields.io/badge/-Let%27s%20Encrypt-05122A?style=flat&logo=letsencrypt)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-![Swegger](https://img.shields.io/badge/-Swegger-05122A?style=flat&logo=swagger)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)&nbsp;
 
