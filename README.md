@@ -20,29 +20,22 @@ I like to
 #### Frameworks
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
+![AngularJs](https://img.shields.io/badge/-AungularJs-05122A?style=flat&logo=angularjs)&nbsp;
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-#### Servers
-![ngrok](https://img.shields.io/badge/-ngrock-05122A?style=flat&logo=ngrok)&nbsp;
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 
 #### Database
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 #### Tools & Softwares
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![cURL](https://img.shields.io/badge/-cURL-05122A?style=flat&logo=curl)&nbsp;
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
 ![Let's Encrypt](https://img.shields.io/badge/-Let%27s%20Encrypt-05122A?style=flat&logo=letsencrypt)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)&nbsp;
