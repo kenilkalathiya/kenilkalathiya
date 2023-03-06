@@ -29,18 +29,15 @@ I like to
 
 
 #### Database
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 #### Tools & Softwares
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
 ![Let's Encrypt](https://img.shields.io/badge/-Let%27s%20Encrypt-05122A?style=flat&logo=letsencrypt)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)&nbsp;
 
 ## ⚙️ GitHub Analytics
